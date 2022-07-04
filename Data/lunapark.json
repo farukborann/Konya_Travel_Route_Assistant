@@ -1,0 +1,122 @@
+{
+    "placeUrl": {
+        "0": "https:\/\/www.google.com\/maps\/place\/Konya+Lunapark%C4%B1\/data=!4m6!3m5!1s0x14d08e583caed24b:0x95c8a4c86cd38495!8m2!3d37.94964!4d32.4937542!16s%2Fg%2F11c44g3mf3",
+        "1": "https:\/\/www.google.com\/maps\/place\/Konya+Karatay+%C5%9Eehir+Park%C4%B1+Lunapark\/data=!4m6!3m5!1s0x14d09b95e12b8217:0x501fc75dcd026c3d!8m2!3d37.8728113!4d32.5514928!16s%2Fg%2F11h4dj7_nq",
+        "2": "https:\/\/www.google.com\/maps\/place\/Karatay+Lunapark%C4%B1\/data=!4m6!3m5!1s0x14d09aa543fd460b:0x778645734ac93c9c!8m2!3d37.8756442!4d32.5496437!16s%2Fg%2F11bz0bmnqv"
+    },
+    "title": {
+        "0": "Konya Lunapark\u0131",
+        "1": "Konya Karatay \u015eehir Park\u0131 Lunapark",
+        "2": "Karatay Lunapark\u0131"
+    },
+    "rating": {
+        "0": "3,9",
+        "1": "4,2",
+        "2": "3,7"
+    },
+    "reviewCount": {
+        "0": 974,
+        "1": 44,
+        "2": 79
+    },
+    "category": {
+        "0": "Lunapark",
+        "1": "Lunapark",
+        "2": "Lunapark"
+    },
+    "attributes": {
+        "0": "",
+        "1": "",
+        "2": ""
+    },
+    "address": {
+        "0": "Yaz\u0131r, Real 2 A, 42250 Horozluhan Osb\/Sel\u00e7uklu\/Konya, T\u00fcrkiye",
+        "1": "Fetih, \u00dcnen Cd. No:364, 42030, 42000 Karatay\/Konya, T\u00fcrkiye",
+        "2": "Fetih, 42030 Karatay\/Konya, T\u00fcrkiye"
+    },
+    "plusCode": {
+        "0": "WFXV+VG Horozluhan Osb, Sel\u00e7uklu\/Konya, T\u00fcrkiye",
+        "1": "VHF2+4H Horozluhan Osb, Sel\u00e7uklu\/Konya, T\u00fcrkiye",
+        "2": "VGGX+7V Horozluhan Osb, Sel\u00e7uklu\/Konya, T\u00fcrkiye"
+    },
+    "website": {
+        "0": "",
+        "1": "https:\/\/www.instagram.com\/ranycold\/",
+        "2": ""
+    },
+    "phoneNumber": {
+        "0": "",
+        "1": "",
+        "2": ""
+    },
+    "cumartesi": {
+        "0": "24 saat a\u00e7\u0131k",
+        "1": "15:00\u201300:00",
+        "2": "09:00\u201300:00"
+    },
+    "pazar": {
+        "0": "24 saat a\u00e7\u0131k",
+        "1": "15:00\u201300:00",
+        "2": "09:00\u201300:00"
+    },
+    "pazartesi": {
+        "0": "24 saat a\u00e7\u0131k",
+        "1": "15:00\u201300:00",
+        "2": "09:00\u201300:00"
+    },
+    "sal\u0131": {
+        "0": "24 saat a\u00e7\u0131k",
+        "1": "15:00\u201300:00",
+        "2": "09:00\u201300:00"
+    },
+    "\u00e7ar\u015famba": {
+        "0": "24 saat a\u00e7\u0131k",
+        "1": "15:00\u201300:00",
+        "2": "09:00\u201300:00"
+    },
+    "per\u015fembe": {
+        "0": "24 saat a\u00e7\u0131k",
+        "1": "15:00\u201300:00",
+        "2": "09:00\u201300:00"
+    },
+    "cuma": {
+        "0": "24 saat a\u00e7\u0131k",
+        "1": "15:00\u201300:00",
+        "2": "09:00\u201300:30"
+    },
+    "currentStatus": {
+        "0": "\u015eu anda a\u00e7\u0131k",
+        "1": "Kapal\u0131",
+        "2": "\u015eu anda a\u00e7\u0131k"
+    },
+    "imgUrl": {
+        "0": "https:\/\/lh5.googleusercontent.com\/p\/AF1QipMX2qG2_klLnho7NFZQmMzlEsR9Jw8zZCsh6TBc=w408-h725-k-no",
+        "1": "https:\/\/lh5.googleusercontent.com\/p\/AF1QipPMBfN0Aiq4Bq4bC7E7KE8IVOzQ3JPNO8LMXFMo=w426-h240-k-no",
+        "2": "https:\/\/lh5.googleusercontent.com\/p\/AF1QipNx_NiEsjix8rglf_aK14ek5Azj9cN-050Ce8Qw=w408-h306-k-no"
+    },
+    "isClaimed": {
+        "0": false,
+        "1": true,
+        "2": false
+    },
+    "latitude": {
+        "0": "37.94964",
+        "1": "37.8728113",
+        "2": "37.8756442"
+    },
+    "longitude": {
+        "0": "32.4937542",
+        "1": "32.5514928",
+        "2": "32.5496437"
+    },
+    "query": {
+        "0": "https:\/\/www.google.com\/maps\/search\/konya+l%C3%BCnapark\/@37.9168271,32.5187911,12.35z",
+        "1": "https:\/\/www.google.com\/maps\/search\/konya+l%C3%BCnapark\/@37.9168271,32.5187911,12.35z",
+        "2": "https:\/\/www.google.com\/maps\/search\/konya+l%C3%BCnapark\/@37.9168271,32.5187911,12.35z"
+    },
+    "timestamp": {
+        "0": 1656754465999,
+        "1": 1656754469741,
+        "2": 1656754473753
+    }
+}
